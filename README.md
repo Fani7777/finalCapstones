@@ -1,12 +1,12 @@
-UsArrests Data Analysis
+## UsArrests Data Analysis
 
-Project Description:
+### Project Description:
 
 The goal of this project is to perform data analysis on the UsArrests dataset, which contains statistics on the arrests made by police departments across the United States.
 The analysis focuses on exploring the relationships between different variables in the dataset, as well as performing dimensionality reduction using PCA.
 Additionally, the project includes computing and visualizing correlations between the variables.
 
-Table of Contents:
+### Table of Contents:
 
 Exploring the data
 Statistics
@@ -18,14 +18,14 @@ Standerdization of data
 Clustering and dednograms
 Observations
 
-Installations:
+### Installations:
 
-For installation the following softwares and packages are required
+#### For installation the following softwares and packages are required
 
 Python
 Jupyter notebook
 
-Imports:
+### Imports:
 
 import pandas as pd
 import numpy as np
@@ -39,7 +39,7 @@ from sklearn.cluster import AgglomerativeClustering
 from sklearn.cluster import KMeans
 
 
-Usage
+### Usage
 Once the project is installed, you can use it as follows:
 
 Open the Us_Arrests.ipynb file in Jupyter notebook
@@ -52,7 +52,7 @@ Compute the correlations between the variables in the dataset and visualize the 
 Perform PCA on the dataset and visualize the results.
 You can view the results of the analysis in the notebook.
 
-Screenshots
+### Screenshots
 
 Correlation analysis screenshot
 https://www.dropbox.com/s/w04y6phtsl918pa/Correlation.png?dl=0
